@@ -1,0 +1,3 @@
+# Preserve the exact downloadable bytes used by SHA256SUMS and the release ZIP.
+manifest.json -text
+campaign-notes.txt -text
