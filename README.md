@@ -6,14 +6,20 @@ media (Steam app **2998660**). Game source and player data are not included.
 ## Campaign videos
 
 [Open the campaign library](https://gread.github.io/torreta-assets/marketing/2026-10-21/)
-for six 15-second concepts, each delivered for X (1920x1080) and Instagram
-Reels (1080x1920). The page provides previews, direct MP4 downloads, suggested
+for eleven concepts, each delivered for X (1920x1080) and Instagram
+Reels (1080x1920): four base-game clips, six Torretaz clips and a 30-second
+tour of seven total-conversion mods. The page provides collection filters,
+previews, direct MP4 downloads, suggested
 captions and a JSON manifest with SHA-256 hashes. All downloads work without
 authentication or access to the game's private repository.
 
-The complete ZIP is attached to the public `campaign-2026-10-21` release and
+The expanded ZIP is attached to the public `campaign-2026-10-21-expanded` release and
 linked from the gallery. Individual media and the manifest are served directly
-by GitHub Pages. Existing inventory URLs remain unchanged.
+by GitHub Pages. The original twelve-video release remains available. Existing
+inventory URLs remain unchanged.
+
+- [Torretaz collection](https://gread.github.io/torreta-assets/marketing/2026-10-21/?collection=torretaz)
+- [Mods tour](https://gread.github.io/torreta-assets/marketing/2026-10-21/?collection=mods)
 
 ## Steam inventory images
 

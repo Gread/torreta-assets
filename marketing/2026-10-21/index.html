@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Official Torreta and Torretaz campaign clips. Preview and download ready-to-post videos for X and Instagram Reels.">
+  <meta name="description" content="Torreta, Torretaz and total-conversion mod campaign clips. Preview and download videos for X and Instagram Reels.">
   <meta name="theme-color" content="#101418">
   <title>Torreta — Campaign library</title>
   <link rel="icon" href="../../crystals/crystal_common.png">
@@ -30,38 +30,45 @@
       <section class="hero">
         <div class="eyebrow">Gameplay worth sharing</div>
         <h1>Build the defense.<br><span>Share the action.</span></h1>
-        <p class="intro">Six short stories from Torreta and Torretaz. Native gameplay, original game audio, and a cut made for each screen.</p>
-        <div class="actions"><a class="button primary" id="bundle" href="https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-21/Torreta-Campaign-2026-10-21.zip">Download all 12 clips · ZIP</a><a class="button" href="manifest.json" download>Asset manifest · JSON</a><a class="button" href="campaign-notes.txt" download>Captions &amp; usage notes</a></div>
-        <p class="fine">15 seconds each · MP4 / H.264 + AAC · English titles · No sign-in required</p>
+        <p class="intro">Eleven short stories from Torreta, Torretaz and the world of mods. Native gameplay, original game audio, and a cut made for each screen.</p>
+        <div class="actions"><a class="button primary" id="bundle" href="https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-21-expanded/Torreta-Campaign-2026-10-21-Expanded.zip">Download all 22 videos · ZIP</a><a class="button" href="manifest.json" download>Asset manifest · JSON</a><a class="button" href="campaign-notes.txt" download>Captions &amp; usage notes</a></div>
+        <p class="fine">15-second features + 30-second mods tour · MP4 / H.264 + AAC · English titles · No sign-in required</p>
       </section>
       <section aria-label="Campaign clips">
-        <div class="toolbar"><p id="count">6 concepts · 12 videos</p><label>Preview format <select id="format"><option value="x">X — 16:9 / 1920 × 1080</option><option value="reels">Instagram Reels — 9:16 / 1080 × 1920</option></select></label></div>
+        <div class="toolbar"><p id="count" aria-live="polite">11 concepts · 22 videos</p><label>Collection <select id="collection"><option value="all">All clips</option><option value="torreta">Torreta</option><option value="torretaz">Torretaz</option><option value="mods">Mods tour</option></select></label><label>Preview format <select id="format"><option value="x">X — 16:9 / 1920 × 1080</option><option value="reels">Instagram Reels — 9:16 / 1080 × 1920</option></select></label></div>
         <p id="error" hidden></p><div class="grid" id="clips"></div>
         <noscript><p>JavaScript is only needed for the preview gallery. The ZIP, <a href="manifest.json">direct-download manifest</a>, and <a href="campaign-notes.txt">caption file</a> work without it.</p></noscript>
       </section>
-      <aside class="note"><strong>For the campaign team.</strong> The four Torreta clips show the base game. The two Torretaz clips show an official total-conversion mod and carry that label. Footage was staged in the native trailer bench; these are edited gameplay captures, not performance benchmarks. Use the supplied captions as drafts and add the approved campaign link when posting. Files are publicly downloadable; no access to the game repository is needed.</aside>
+      <aside class="note"><strong>For the campaign team.</strong> Four clips show the Torreta base game; six focus on the official Torretaz mod. The 30-second mods tour visits Banana Brigade, Traditional Path, Living Trail, Cores, Station Deck, Iron Kingdom and Torretaz. Footage was staged in the native trailer bench; these are edited gameplay captures, not performance benchmarks. Use the supplied captions as drafts and add the approved campaign link when posting. Files are publicly downloadable; no access to the game repository is needed.</aside>
     </main>
     <footer>© Ricardson Albuquerque. All rights reserved. Assets supplied for authorized Torreta marketing. <a href="https://store.steampowered.com/app/2998660/Torreta/">Torreta on Steam</a> · <a href="https://github.com/Gread/torreta-assets">Public asset repository</a></footer>
   </div>
   <script>
     const clips = document.querySelector('#clips');
     const format = document.querySelector('#format');
+    const collection = document.querySelector('#collection');
+    const requestedCollection = new URLSearchParams(location.search).get('collection');
+    if (['torreta', 'torretaz', 'mods'].includes(requestedCollection)) collection.value = requestedCollection;
     const megabytes = bytes => (bytes / 1e6).toFixed(1) + ' MB';
     function element(tag, className, text) { const el = document.createElement(tag); if (className) el.className = className; if (text) el.textContent = text; return el; }
     function render(items) {
       clips.querySelectorAll('video').forEach(video => video.pause());
       clips.replaceChildren();
+      items = items.filter(item => collection.value === 'all' || item.game.toLowerCase() === collection.value);
+      const count = items.reduce((total, item) => total + Object.keys(item.variants).length, 0);
+      document.querySelector('#count').textContent = items.length + (items.length === 1 ? ' concept' : ' concepts') + ' · ' + count + ' videos';
       items.forEach(item => {
         const variant = item.variants[format.value];
         if (!variant) return;
-        const card = element('article', 'card');
+        const card = element('article', 'card'); card.id = item.id;
         const box = element('div', 'video-box' + (format.value === 'reels' ? ' portrait' : ''));
         const video = element('video'); video.controls = true; video.playsInline = true; video.preload = 'metadata'; video.poster = variant.poster; video.src = variant.file;
         video.setAttribute('aria-label', item.title + ' — ' + (format.value === 'x' ? 'X' : 'Instagram Reels'));
         video.addEventListener('play', () => clips.querySelectorAll('video').forEach(other => { if (other !== video) other.pause(); }));
         box.append(video); card.append(box);
         const body = element('div', 'body'); const meta = element('div', 'meta');
-        meta.append(element('span', 'tag', item.game === 'Torretaz' ? 'Torretaz / Official mod' : 'Torreta / Base game'), element('span', '', '15 SEC / 30 FPS'));
+        const tag = item.game === 'Torretaz' ? 'Torretaz / Official mod' : item.game === 'Mods' ? 'Torreta / Total conversion mods' : 'Torreta / Base game';
+        meta.append(element('span', 'tag', tag), element('span', '', variant.duration_seconds + ' SEC / 30 FPS'));
         body.append(meta, element('h2', '', item.title), element('p', 'copy', item.suggested_copy));
         const downloads = element('div', 'downloads');
         for (const [key, label] of [['x', 'Download X'], ['reels', 'Download Reels']]) {
@@ -72,9 +79,12 @@
       });
     }
     fetch('manifest.json').then(response => { if (!response.ok) throw Error('Manifest unavailable'); return response.json(); }).then(manifest => {
-      const count = manifest.clips.reduce((total, item) => total + Object.keys(item.variants).length, 0);
-      document.querySelector('#count').textContent = manifest.clips.length + ' concepts · ' + count + ' videos';
       render(manifest.clips); format.addEventListener('change', () => render(manifest.clips));
+      collection.addEventListener('change', () => {
+        const url = new URL(location.href);
+        if (collection.value === 'all') url.searchParams.delete('collection'); else url.searchParams.set('collection', collection.value);
+        history.replaceState(null, '', url); render(manifest.clips);
+      });
     }).catch(() => { const error = document.querySelector('#error'); error.hidden = false; error.textContent = 'The gallery could not load. Use the ZIP or asset manifest above for direct downloads.'; });
   </script>
 </body>

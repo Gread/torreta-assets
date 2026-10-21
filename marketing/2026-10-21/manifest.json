@@ -232,8 +232,198 @@
           "true_peak_dbtp": -2.1
         }
       }
+    },
+    {
+      "id": "07-torretaz-build-and-defend",
+      "title": "Build. Supply. Defend.",
+      "game": "Torretaz",
+      "suggested_copy": "Build the base. Feed the front. Hold the perimeter. Turn Torreta into Torretaz with the official total-conversion mod. #Torreta #Torretaz #Automation",
+      "variants": {
+        "x": {
+          "file": "07-torretaz-build-and-defend-x.mp4",
+          "poster": "07-torretaz-build-and-defend-x.jpg",
+          "bytes": 14236052,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/07-torretaz-build-and-defend-x.mp4",
+          "sha256": "745404beb7583015892ba97cc17bb85b19ea425e0cf09c6baeae7b845baee690",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 15.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.13,
+          "true_peak_dbtp": -2.5
+        },
+        "reels": {
+          "file": "07-torretaz-build-and-defend-reels.mp4",
+          "poster": "07-torretaz-build-and-defend-reels.jpg",
+          "bytes": 14271297,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/07-torretaz-build-and-defend-reels.mp4",
+          "sha256": "791ca8645877a627605e2f91ddcee9d803dee4ee878d584c4e67a38a91a3e1bf",
+          "width": 1080,
+          "height": 1920,
+          "fps": 30,
+          "duration_seconds": 15.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.13,
+          "true_peak_dbtp": -2.5
+        }
+      }
+    },
+    {
+      "id": "08-torretaz-orbital-strike",
+      "title": "Call the orbital strike",
+      "game": "Torretaz",
+      "suggested_copy": "The swarm has numbers. You have an orbital strike. Bring support from above in Torretaz, an official mod for Torreta. #Torreta #Torretaz #TowerDefense",
+      "variants": {
+        "x": {
+          "file": "08-torretaz-orbital-strike-x.mp4",
+          "poster": "08-torretaz-orbital-strike-x.jpg",
+          "bytes": 13990111,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/08-torretaz-orbital-strike-x.mp4",
+          "sha256": "a5531b7bfb52c120ab9ba898eeee29c82c6912af48b98f056b0029b631149131",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 15.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.14,
+          "true_peak_dbtp": -2.43
+        },
+        "reels": {
+          "file": "08-torretaz-orbital-strike-reels.mp4",
+          "poster": "08-torretaz-orbital-strike-reels.jpg",
+          "bytes": 13887571,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/08-torretaz-orbital-strike-reels.mp4",
+          "sha256": "84160caa7142c6441d6d331517fcf90f4be7f8006f7555065930fdab8fc106e8",
+          "width": 1080,
+          "height": 1920,
+          "fps": 30,
+          "duration_seconds": 15.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.14,
+          "true_peak_dbtp": -2.43
+        }
+      }
+    },
+    {
+      "id": "09-torretaz-drop-the-rangers",
+      "title": "Drop in the Rangers",
+      "game": "Torretaz",
+      "suggested_copy": "Reinforcements incoming. Drop the Rangers into the swarm, then take a tower's cockpit in Torretaz. An official total-conversion mod for Torreta. #Torreta #Torretaz #IndieGame",
+      "variants": {
+        "x": {
+          "file": "09-torretaz-drop-the-rangers-x.mp4",
+          "poster": "09-torretaz-drop-the-rangers-x.jpg",
+          "bytes": 13507817,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/09-torretaz-drop-the-rangers-x.mp4",
+          "sha256": "bd3716627113c9f989594855ae688b60129e763b11b031d382bc940d7326e85e",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 15.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.04,
+          "true_peak_dbtp": -2.41
+        },
+        "reels": {
+          "file": "09-torretaz-drop-the-rangers-reels.mp4",
+          "poster": "09-torretaz-drop-the-rangers-reels.jpg",
+          "bytes": 13568569,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/09-torretaz-drop-the-rangers-reels.mp4",
+          "sha256": "04b7db818cd0773a5160dca8f5d8f1efea7f4e4aea3e0446e35bc72c62227432",
+          "width": 1080,
+          "height": 1920,
+          "fps": 30,
+          "duration_seconds": 15.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.04,
+          "true_peak_dbtp": -2.41
+        }
+      }
+    },
+    {
+      "id": "10-this-is-torretaz",
+      "title": "This is Torretaz",
+      "game": "Torretaz",
+      "suggested_copy": "Supply lines. Burning perimeters. Orbital support. A Commander in the thick of it. This is Torretaz, an official total-conversion mod for Torreta. #Torreta #Torretaz #StrategyGames",
+      "variants": {
+        "x": {
+          "file": "10-this-is-torretaz-x.mp4",
+          "poster": "10-this-is-torretaz-x.jpg",
+          "bytes": 15544498,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/10-this-is-torretaz-x.mp4",
+          "sha256": "97241c37f30f75c42e5170d95b9b5827b8b44e126c6cc589c9c0d54aa43d737c",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 15.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.09,
+          "true_peak_dbtp": -2.49
+        },
+        "reels": {
+          "file": "10-this-is-torretaz-reels.mp4",
+          "poster": "10-this-is-torretaz-reels.jpg",
+          "bytes": 15439037,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/10-this-is-torretaz-reels.mp4",
+          "sha256": "fdcf0af9c7d726e1e94db354cd5bc1316422c0e529cd5ffa9d6d7302e9e13490",
+          "width": 1080,
+          "height": 1920,
+          "fps": 30,
+          "duration_seconds": 15.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.09,
+          "true_peak_dbtp": -2.49
+        }
+      }
+    },
+    {
+      "id": "11-one-game-new-rules",
+      "title": "One game. New rules.",
+      "game": "Mods",
+      "suggested_copy": "Seven ways to change the fight: Banana Brigade, Traditional Path, Living Trail, Cores, Station Deck, Iron Kingdom and Torretaz. Explore Torreta's total-conversion mods. #Torreta #GameMods #IndieGame",
+      "variants": {
+        "x": {
+          "file": "11-one-game-new-rules-x.mp4",
+          "poster": "11-one-game-new-rules-x.jpg",
+          "bytes": 31126376,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/11-one-game-new-rules-x.mp4",
+          "sha256": "f1b6ee8111e654d797e8084b7041d2fa9da8799544ae960976f5fe886ec8e1fa",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 30.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.1,
+          "true_peak_dbtp": -2.44
+        },
+        "reels": {
+          "file": "11-one-game-new-rules-reels.mp4",
+          "poster": "11-one-game-new-rules-reels.jpg",
+          "bytes": 31227012,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/11-one-game-new-rules-reels.mp4",
+          "sha256": "5e53c7a827c0c950d09fd498608eb93234641f293c7e65f37b4711e90fe7eafb",
+          "width": 1080,
+          "height": 1920,
+          "fps": 30,
+          "duration_seconds": 30.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.1,
+          "true_peak_dbtp": -2.44
+        }
+      }
     }
   ],
   "base_url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/",
-  "bundle_url": "https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-21/Torreta-Campaign-2026-10-21.zip"
+  "bundle_url": "https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-21-expanded/Torreta-Campaign-2026-10-21-Expanded.zip"
 }
