@@ -1,35 +1,35 @@
-# torreta-assets
+# Torreta public assets
 
-Hospedagem publica dos icones de item de inventario Steam do jogo **Torreta**
-(App ID 2998660).
+Public hosting for Torreta's Steam inventory images and authorized marketing
+media (Steam app **2998660**). Game source and player data are not included.
 
-Este repositorio existe por um motivo unico: a Steam **nao hospeda** icone de
-item de inventario — o campo `icon_url` da itemdef precisa ser um URL HTTPS que
-voce controla. O codigo do jogo fica em outro lugar, privado; aqui so ha imagem.
+## Campaign videos
 
-## Conteudo
+[Open the campaign library](https://gread.github.io/torreta-assets/marketing/2026-10-21/)
+for six 15-second concepts, each delivered for X (1920x1080) and Instagram
+Reels (1080x1920). The page provides previews, direct MP4 downloads, suggested
+captions and a JSON manifest with SHA-256 hashes. All downloads work without
+authentication or access to the game's private repository.
 
-`crystals/` — o Cristal de Torre, item concedido ao chegar na wave 50 no
-Pesadelo, nas cinco raridades. Dois tamanhos por raridade:
+The complete ZIP is attached to the public `campaign-2026-10-21` release and
+linked from the gallery. Individual media and the manifest are served directly
+by GitHub Pages. Existing inventory URLs remain unchanged.
 
-| arquivo | tamanho | onde aparece |
-|---|---|---|
-| `crystal_<raridade>.png` | 200x200 | grade do inventario |
-| `crystal_<raridade>_large.png` | 2048x2048 | visao de detalhe |
+## Steam inventory images
 
-Raridades: `common`, `uncommon`, `rare`, `epic`, `legendary`.
+Steam inventory item definitions require externally hosted HTTPS `icon_url`
+images. `crystals/` contains the Tower Crystal in five rarities: common,
+uncommon, rare, epic and legendary. The generic `crystal_<rarity>.png` images
+are 200x200; `_large.png` images are 2048x2048. `crystals/towers/` contains the
+tower-specific variants.
 
-As cinco sao a MESMA pedra: so a cor e o brilho interno mudam. Cinco formas
-diferentes leriam como cinco itens, e nao como um item em cinco graus.
+The rarities share one crystal shape, with different color and internal glow.
+They were baked from the game's procedural raymarching shader rather than
+drawn as flat polygons.
 
-## Como foram feitos
+## Rights
 
-Nao sao desenho: sao geometria marchada por raymarching num shader
-(`procedural_cristal.gdshader`, no repositorio do jogo) e assados em PNG. Poligono
-chapado nao mostra o que faz uma pedra parecer pedra — faceta, e o que a luz faz
-entre elas.
-
-## Licenca
-
-(c) Ricardson Albuquerque. Todos os direitos reservados. Publicado aqui apenas
-para servir como origem dos icones na Steam.
+Copyright Ricardson Albuquerque. All rights reserved. Inventory images are
+published to serve Steam item definitions; campaign assets are supplied for
+authorized Torreta marketing. Public download availability does not grant a
+general license to reuse the assets in other products.

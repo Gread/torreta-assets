@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Official Torreta and Torretaz campaign clips. Preview and download ready-to-post videos for X and Instagram Reels.">
+  <meta name="theme-color" content="#101418">
+  <title>Torreta — Campaign library</title>
+  <link rel="icon" href="../../crystals/crystal_common.png">
+  <style>
+    :root{color-scheme:dark;--bg:#101418;--panel:#192025;--line:#344047;--ink:#f5eee3;--muted:#aab4ba;--copper:#e4ab71}
+    *{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 90% 0, #423124 0,transparent 40%),var(--bg);color:var(--ink);font:16px/1.6 system-ui,sans-serif}
+    a{color:inherit}button,select{font:inherit}a:focus-visible,button:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid var(--copper);outline-offset:5px}
+    .wrap{max-width:1240px;margin:auto;padding:0 32px}header{padding:26px 0;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;align-items:center;gap:20px}
+    .brand{font-size:23px;font-weight:800;letter-spacing:.1em;text-decoration:none}.brand span{color:var(--copper)}.eyebrow{color:var(--copper);font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700}
+    .hero{padding:64px 0 45px;max-width:920px}h1{font-size:clamp(40px,6vw,72px);line-height:1.02;letter-spacing:-.055em;margin:15px 0 24px;font-weight:750}h1 span{color:var(--copper)}
+    .intro{font-size:18px;color:var(--muted);max-width:670px}.actions{display:flex;gap:12px;flex-wrap:wrap;margin:26px 0 18px}.button{display:inline-flex;align-items:center;justify-content:center;padding:11px 17px;border:1px solid var(--line);border-radius:7px;text-decoration:none;font-size:14px;font-weight:650;background:#20282d}
+    .button.primary{background:var(--copper);border-color:var(--copper);color:#1d1813}.button:hover{filter:brightness(1.12)}.fine{font-size:13px;color:var(--muted)}
+    .toolbar{display:flex;justify-content:space-between;gap:20px;align-items:center;border-block:1px solid var(--line);padding:18px 0;margin-bottom:28px;flex-wrap:wrap}.toolbar p{margin:0}.toolbar select{background:#20282d;color:var(--ink);padding:9px 12px;border:1px solid var(--line);border-radius:6px;margin-left:8px}
+    .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px}.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;min-width:0}
+    .video-box{background:#080b0d;display:flex;justify-content:center;align-items:center;aspect-ratio:16/9;overflow:hidden}.video-box.portrait{aspect-ratio:4/3}.video-box video{display:block;width:100%;height:100%;object-fit:contain}.body{padding:23px}.meta{display:flex;justify-content:space-between;gap:12px;align-items:center;font-size:11px;letter-spacing:.12em;color:var(--muted);text-transform:uppercase}.tag{color:var(--copper)}h2{font-size:26px;letter-spacing:-.025em;margin:10px 0 8px;line-height:1.2}.copy{color:#c6cdd0;font-size:14px;margin:0;min-height:68px}.downloads{display:flex;gap:9px;flex-wrap:wrap;margin:20px 0 0}.downloads a{font-size:13px;flex:1}.downloads small{opacity:.7;margin-left:8px;font-weight:400}.note{margin-top:48px;padding:25px 0;border-top:1px solid var(--line);color:var(--muted);max-width:900px;font-size:14px}.note strong{color:var(--ink)}footer{padding:30px 0 40px;color:var(--muted);font-size:12px;border-top:1px solid var(--line);margin-top:25px}#error{color:#ffb6a3}
+    @media(max-width:700px){.wrap{padding:0 18px}header{padding:20px 0}.hero{padding-top:40px}.grid{grid-template-columns:1fr;gap:22px}.intro{font-size:16px}.body{padding:19px}.copy{min-height:0}.toolbar label{width:100%}.toolbar select{margin-left:0;margin-top:8px;width:100%}.video-box.portrait{aspect-ratio:3/4}.downloads a{min-width:45%}header .fine{font-size:11px}}
+    @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header><a class="brand" href="https://store.steampowered.com/app/2998660/Torreta/">TORRETA<span>.</span></a><span class="fine">OFFICIAL CAMPAIGN ASSETS / 21 OCT 2026</span></header>
+    <main>
+      <section class="hero">
+        <div class="eyebrow">Gameplay worth sharing</div>
+        <h1>Build the defense.<br><span>Share the action.</span></h1>
+        <p class="intro">Six short stories from Torreta and Torretaz. Native gameplay, original game audio, and a cut made for each screen.</p>
+        <div class="actions"><a class="button primary" id="bundle" href="https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-21/Torreta-Campaign-2026-10-21.zip">Download all 12 clips · ZIP</a><a class="button" href="manifest.json" download>Asset manifest · JSON</a><a class="button" href="campaign-notes.txt" download>Captions &amp; usage notes</a></div>
+        <p class="fine">15 seconds each · MP4 / H.264 + AAC · English titles · No sign-in required</p>
+      </section>
+      <section aria-label="Campaign clips">
+        <div class="toolbar"><p id="count">6 concepts · 12 videos</p><label>Preview format <select id="format"><option value="x">X — 16:9 / 1920 × 1080</option><option value="reels">Instagram Reels — 9:16 / 1080 × 1920</option></select></label></div>
+        <p id="error" hidden></p><div class="grid" id="clips"></div>
+        <noscript><p>JavaScript is only needed for the preview gallery. The ZIP, <a href="manifest.json">direct-download manifest</a>, and <a href="campaign-notes.txt">caption file</a> work without it.</p></noscript>
+      </section>
+      <aside class="note"><strong>For the campaign team.</strong> The four Torreta clips show the base game. The two Torretaz clips show an official total-conversion mod and carry that label. Footage was staged in the native trailer bench; these are edited gameplay captures, not performance benchmarks. Use the supplied captions as drafts and add the approved campaign link when posting. Files are publicly downloadable; no access to the game repository is needed.</aside>
+    </main>
+    <footer>© Ricardson Albuquerque. All rights reserved. Assets supplied for authorized Torreta marketing. <a href="https://store.steampowered.com/app/2998660/Torreta/">Torreta on Steam</a> · <a href="https://github.com/Gread/torreta-assets">Public asset repository</a></footer>
+  </div>
+  <script>
+    const clips = document.querySelector('#clips');
+    const format = document.querySelector('#format');
+    const megabytes = bytes => (bytes / 1e6).toFixed(1) + ' MB';
+    function element(tag, className, text) { const el = document.createElement(tag); if (className) el.className = className; if (text) el.textContent = text; return el; }
+    function render(items) {
+      clips.querySelectorAll('video').forEach(video => video.pause());
+      clips.replaceChildren();
+      items.forEach(item => {
+        const variant = item.variants[format.value];
+        if (!variant) return;
+        const card = element('article', 'card');
+        const box = element('div', 'video-box' + (format.value === 'reels' ? ' portrait' : ''));
+        const video = element('video'); video.controls = true; video.playsInline = true; video.preload = 'metadata'; video.poster = variant.poster; video.src = variant.file;
+        video.setAttribute('aria-label', item.title + ' — ' + (format.value === 'x' ? 'X' : 'Instagram Reels'));
+        video.addEventListener('play', () => clips.querySelectorAll('video').forEach(other => { if (other !== video) other.pause(); }));
+        box.append(video); card.append(box);
+        const body = element('div', 'body'); const meta = element('div', 'meta');
+        meta.append(element('span', 'tag', item.game === 'Torretaz' ? 'Torretaz / Official mod' : 'Torreta / Base game'), element('span', '', '15 SEC / 30 FPS'));
+        body.append(meta, element('h2', '', item.title), element('p', 'copy', item.suggested_copy));
+        const downloads = element('div', 'downloads');
+        for (const [key, label] of [['x', 'Download X'], ['reels', 'Download Reels']]) {
+          const media = item.variants[key]; if (!media) continue;
+          const a = element('a', 'button', label); a.href = media.file; a.download = media.file; a.append(element('small', '', megabytes(media.bytes))); downloads.append(a);
+        }
+        body.append(downloads); card.append(body); clips.append(card);
+      });
+    }
+    fetch('manifest.json').then(response => { if (!response.ok) throw Error('Manifest unavailable'); return response.json(); }).then(manifest => {
+      const count = manifest.clips.reduce((total, item) => total + Object.keys(item.variants).length, 0);
+      document.querySelector('#count').textContent = manifest.clips.length + ' concepts · ' + count + ' videos';
+      render(manifest.clips); format.addEventListener('change', () => render(manifest.clips));
+    }).catch(() => { const error = document.querySelector('#error'); error.hidden = false; error.textContent = 'The gallery could not load. Use the ZIP or asset manifest above for direct downloads.'; });
+  </script>
+</body>
+</html>

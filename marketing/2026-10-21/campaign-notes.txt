@@ -1,0 +1,38 @@
+TORRETA / CAMPAIGN PACK / 21 OCTOBER 2026
+
+Six concepts, two deliveries each; 15 seconds per file.
+X: 1920x1080, 16:9, 30 fps. Instagram Reels: 1080x1920, 9:16, 30 fps.
+MP4, H.264, yuv420p, AAC stereo at 48 kHz, fast-start playback.
+English on-screen text; original game music and native sound effects.
+Master audio target: -16 LUFS; encoded true peaks below -1 dBTP.
+
+Download page: https://gread.github.io/torreta-assets/marketing/2026-10-21/
+Store: https://store.steampowered.com/app/2998660/Torreta/
+
+CAMPAIGN NOTES
+The first four concepts are the Torreta base game. The last two show Torretaz, an official total-conversion mod for Torreta. Keep that distinction in copy.
+These are staged native gameplay captures, edited at normal speed. They are not performance claims or unedited playthroughs. The library combines new captures with existing trailer-bench footage.
+Footage contains stylized insect combat. Check the final platform placement and its UI overlay before launching a paid campaign.
+Suggested captions below are editable drafts. Add the approved tracked Steam URL to X posts; use the campaign bio link or the selected ad destination for Instagram.
+The manifest supplies anonymous HTTPS downloads, byte sizes, SHA-256 hashes, dimensions, durations and measured audio levels. No private repository access is needed.
+ZIP contains all 12 MP4s, posters, this file and manifest.json. Copyright Ricardson Albuquerque. All rights reserved; assets are supplied for authorized Torreta marketing.
+
+SUGGESTED CAPTIONS
+
+01-build-your-maze / Torreta
+Your maze. Their problem. Build the route, line it with towers, and make every turn count. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame
+
+02-elemental-firepower / Torreta
+Fire. Frost. Lightning. Give your maze a little personality. Build your defense in Torreta, available on Steam. #Torreta #TowerDefense #StrategyGames
+
+03-take-the-cockpit / Torreta
+Build the tower. Then fire it yourself. Take the cockpit in Torreta, available on Steam. #Torreta #TowerDefense #IndieGame
+
+04-feed-the-factory / Torreta
+The battle leaves debris. Your factory puts it to work. Collect, build, and keep production moving in Torreta. Available on Steam. #Torreta #Automation #IndieGame
+
+05-survive-the-swarm / Torretaz
+They come from every side. Build your perimeter and burn back the swarm in Torretaz, an official total-conversion mod for Torreta. #Torreta #Torretaz #TowerDefense
+
+06-be-the-commander / Torretaz
+Step into the horde as the Commander. Torretaz brings its own rules to Torreta as an official total-conversion mod. #Torreta #Torretaz #IndieGame

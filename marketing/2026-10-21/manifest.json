@@ -1,0 +1,239 @@
+{
+  "campaign": "2026-10-21",
+  "language": "en",
+  "store_url": "https://store.steampowered.com/app/2998660/Torreta/",
+  "footage": "Native gameplay staged with the Torreta trailer bench. Editorial cuts; no frame interpolation.",
+  "rights": "Copyright Ricardson Albuquerque. All rights reserved. Campaign assets for authorized Torreta marketing.",
+  "clips": [
+    {
+      "id": "01-build-your-maze",
+      "title": "Build your maze",
+      "game": "Torreta",
+      "suggested_copy": "Your maze. Their problem. Build the route, line it with towers, and make every turn count. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame",
+      "variants": {
+        "x": {
+          "file": "01-build-your-maze-x.mp4",
+          "poster": "01-build-your-maze-x.jpg",
+          "bytes": 13308229,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/01-build-your-maze-x.mp4",
+          "sha256": "b975d365f0366e8491ce6bea02046f1525c38da06d7613eb0506d5c9f952e2f2",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 15,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.01,
+          "true_peak_dbtp": -2.79
+        },
+        "reels": {
+          "file": "01-build-your-maze-reels.mp4",
+          "poster": "01-build-your-maze-reels.jpg",
+          "bytes": 8679466,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/01-build-your-maze-reels.mp4",
+          "sha256": "bbf5e5cd46cbbabeda71c866f10fc87843bc812720e77958d1a9c62b84368fe6",
+          "width": 1080,
+          "height": 1920,
+          "fps": 30,
+          "duration_seconds": 15,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.01,
+          "true_peak_dbtp": -2.79
+        }
+      }
+    },
+    {
+      "id": "02-elemental-firepower",
+      "title": "Elemental firepower",
+      "game": "Torreta",
+      "suggested_copy": "Fire. Frost. Lightning. Give your maze a little personality. Build your defense in Torreta, available on Steam. #Torreta #TowerDefense #StrategyGames",
+      "variants": {
+        "x": {
+          "file": "02-elemental-firepower-x.mp4",
+          "poster": "02-elemental-firepower-x.jpg",
+          "bytes": 13308858,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/02-elemental-firepower-x.mp4",
+          "sha256": "f28f117e25a5615548d3c377e0b11d13ddae4c49302898bc16cfb08ed0cb4284",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 15,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.09,
+          "true_peak_dbtp": -2.2
+        },
+        "reels": {
+          "file": "02-elemental-firepower-reels.mp4",
+          "poster": "02-elemental-firepower-reels.jpg",
+          "bytes": 13180455,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/02-elemental-firepower-reels.mp4",
+          "sha256": "12a2f734f3288afb9079832925523db5626ea4ecc3111105ad1ea1bfffda15fa",
+          "width": 1080,
+          "height": 1920,
+          "fps": 30,
+          "duration_seconds": 15,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.09,
+          "true_peak_dbtp": -2.2
+        }
+      }
+    },
+    {
+      "id": "03-take-the-cockpit",
+      "title": "Take the cockpit",
+      "game": "Torreta",
+      "suggested_copy": "Build the tower. Then fire it yourself. Take the cockpit in Torreta, available on Steam. #Torreta #TowerDefense #IndieGame",
+      "variants": {
+        "x": {
+          "file": "03-take-the-cockpit-x.mp4",
+          "poster": "03-take-the-cockpit-x.jpg",
+          "bytes": 13977147,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/03-take-the-cockpit-x.mp4",
+          "sha256": "86d339fc98aed149e048787c4166e85637d1a263f7f782e9be8629c29f44fd73",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 15,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.5,
+          "true_peak_dbtp": -2.42
+        },
+        "reels": {
+          "file": "03-take-the-cockpit-reels.mp4",
+          "poster": "03-take-the-cockpit-reels.jpg",
+          "bytes": 13825792,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/03-take-the-cockpit-reels.mp4",
+          "sha256": "300b38f05c9adcebe2988593fcf0cb93005ac0295464dcbb782de2b77a3bd0fc",
+          "width": 1080,
+          "height": 1920,
+          "fps": 30,
+          "duration_seconds": 15,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.5,
+          "true_peak_dbtp": -2.42
+        }
+      }
+    },
+    {
+      "id": "04-feed-the-factory",
+      "title": "Feed the factory",
+      "game": "Torreta",
+      "suggested_copy": "The battle leaves debris. Your factory puts it to work. Collect, build, and keep production moving in Torreta. Available on Steam. #Torreta #Automation #IndieGame",
+      "variants": {
+        "x": {
+          "file": "04-feed-the-factory-x.mp4",
+          "poster": "04-feed-the-factory-x.jpg",
+          "bytes": 6748695,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/04-feed-the-factory-x.mp4",
+          "sha256": "d0f0a0da12496718db68683b60ea31e03775228bec4db2cf68a3efb77ab162aa",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 15,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.07,
+          "true_peak_dbtp": -2.51
+        },
+        "reels": {
+          "file": "04-feed-the-factory-reels.mp4",
+          "poster": "04-feed-the-factory-reels.jpg",
+          "bytes": 6699179,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/04-feed-the-factory-reels.mp4",
+          "sha256": "217bf477e1f40a4903d1243419f0ce63b624ea5b9f57139fd5cd260738cb6182",
+          "width": 1080,
+          "height": 1920,
+          "fps": 30,
+          "duration_seconds": 15,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.07,
+          "true_peak_dbtp": -2.51
+        }
+      }
+    },
+    {
+      "id": "05-survive-the-swarm",
+      "title": "Survive the swarm",
+      "game": "Torretaz",
+      "suggested_copy": "They come from every side. Build your perimeter and burn back the swarm in Torretaz, an official total-conversion mod for Torreta. #Torreta #Torretaz #TowerDefense",
+      "variants": {
+        "x": {
+          "file": "05-survive-the-swarm-x.mp4",
+          "poster": "05-survive-the-swarm-x.jpg",
+          "bytes": 13568920,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/05-survive-the-swarm-x.mp4",
+          "sha256": "cb6990ddb7ad34c3acd635a24a6036134e96e8e254451839e1bccedcfe29724a",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 15,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.08,
+          "true_peak_dbtp": -2.51
+        },
+        "reels": {
+          "file": "05-survive-the-swarm-reels.mp4",
+          "poster": "05-survive-the-swarm-reels.jpg",
+          "bytes": 10612767,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/05-survive-the-swarm-reels.mp4",
+          "sha256": "bd33cbd2df2c60804044017554b9ca98ba8c4db9101c83e55f145b9b982edf4e",
+          "width": 1080,
+          "height": 1920,
+          "fps": 30,
+          "duration_seconds": 15,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.08,
+          "true_peak_dbtp": -2.51
+        }
+      }
+    },
+    {
+      "id": "06-be-the-commander",
+      "title": "Be the Commander",
+      "game": "Torretaz",
+      "suggested_copy": "Step into the horde as the Commander. Torretaz brings its own rules to Torreta as an official total-conversion mod. #Torreta #Torretaz #IndieGame",
+      "variants": {
+        "x": {
+          "file": "06-be-the-commander-x.mp4",
+          "poster": "06-be-the-commander-x.jpg",
+          "bytes": 14322182,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/06-be-the-commander-x.mp4",
+          "sha256": "6f8d167ee97ceb6d8e1a4efd65e4a73c7e7e63d08194dd17d195ada3a14f2872",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 15,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.15,
+          "true_peak_dbtp": -2.1
+        },
+        "reels": {
+          "file": "06-be-the-commander-reels.mp4",
+          "poster": "06-be-the-commander-reels.jpg",
+          "bytes": 14321557,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/06-be-the-commander-reels.mp4",
+          "sha256": "6a23e7f3b3242157bdea37c70780dc083a94788f8bc47dcdc2239032bab36510",
+          "width": 1080,
+          "height": 1920,
+          "fps": 30,
+          "duration_seconds": 15,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.15,
+          "true_peak_dbtp": -2.1
+        }
+      }
+    }
+  ],
+  "base_url": "https://gread.github.io/torreta-assets/marketing/2026-10-21/",
+  "bundle_url": "https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-21/Torreta-Campaign-2026-10-21.zip"
+}
