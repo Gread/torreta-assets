@@ -28,11 +28,11 @@
     <header><a class="brand" href="https://store.steampowered.com/app/2998660/Torreta/">TORRETA<span>.</span></a><span class="fine">OFFICIAL CAMPAIGN ASSETS / 21 OCT 2026</span></header>
     <main>
       <section class="hero">
-        <div class="eyebrow">Gameplay worth sharing</div>
+        <div class="eyebrow">Campaign library / Framing revision 2</div>
         <h1>Build the defense.<br><span>Share the action.</span></h1>
         <p class="intro">Eleven short stories from Torreta, Torretaz and the world of mods. Native gameplay, original game audio, and a cut made for each screen.</p>
-        <div class="actions"><a class="button primary" id="bundle" href="https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-21-expanded/Torreta-Campaign-2026-10-21-Expanded.zip">Download all 22 videos · ZIP</a><a class="button" href="manifest.json" download>Asset manifest · JSON</a><a class="button" href="campaign-notes.txt" download>Captions &amp; usage notes</a></div>
-        <p class="fine">15-second features + 30-second mods tour · MP4 / H.264 + AAC · English titles · No sign-in required</p>
+        <div class="actions"><a class="button primary" id="bundle" href="https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-21-wide/Torreta-Campaign-2026-10-21-Wide.zip">Download all 22 revised videos · ZIP</a><a class="button" href="manifest.json" download>Asset manifest · JSON</a><a class="button" href="campaign-notes.txt" download>Captions &amp; usage notes</a></div>
+        <p class="fine">Revised with wider views and uncropped gameplay in Reels · 15-second features + 30-second mods tour · English titles · No sign-in required</p>
       </section>
       <section aria-label="Campaign clips">
         <div class="toolbar"><p id="count" aria-live="polite">11 concepts · 22 videos</p><label>Collection <select id="collection"><option value="all">All clips</option><option value="torreta">Torreta</option><option value="torretaz">Torretaz</option><option value="mods">Mods tour</option></select></label><label>Preview format <select id="format"><option value="x">X — 16:9 / 1920 × 1080</option><option value="reels">Instagram Reels — 9:16 / 1080 × 1920</option></select></label></div>
@@ -78,7 +78,7 @@
         body.append(downloads); card.append(body); clips.append(card);
       });
     }
-    fetch('manifest.json').then(response => { if (!response.ok) throw Error('Manifest unavailable'); return response.json(); }).then(manifest => {
+    fetch('manifest.json?revision=r2').then(response => { if (!response.ok) throw Error('Manifest unavailable'); return response.json(); }).then(manifest => {
       render(manifest.clips); format.addEventListener('change', () => render(manifest.clips));
       collection.addEventListener('change', () => {
         const url = new URL(location.href);

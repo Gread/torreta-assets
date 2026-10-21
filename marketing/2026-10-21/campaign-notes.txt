@@ -1,4 +1,4 @@
-TORRETA / EXPANDED CAMPAIGN PACK / 21 OCTOBER 2026
+TORRETA / REVISED FRAMING / CAMPAIGN PACK / 21 OCTOBER 2026
 
 Eleven concepts, two deliveries each: ten 15-second features and one 30-second mods tour.
 X: 1920x1080, 16:9, 30 fps. Instagram Reels: 1080x1920, 9:16, 30 fps.
@@ -12,13 +12,14 @@ Mods: https://gread.github.io/torreta-assets/marketing/2026-10-21/?collection=mo
 Store: https://store.steampowered.com/app/2998660/Torreta/
 
 CAMPAIGN NOTES
+Revision r2: full horizontal field of view in every Reels shot, overview shots before first-person action, wider mod views, and a newly recorded high camera over the Torretaz front. The current manifest points to revision-suffixed filenames; previous MP4s and releases remain available.
 Concepts 01-04 show the Torreta base game. Concepts 05-10 show Torretaz, an official total-conversion mod for Torreta. Keep that distinction in copy.
 Concept 11 visits seven total-conversion mods: Banana Brigade, Traditional Path, Living Trail, Cores, Station Deck, Iron Kingdom and Torretaz.
 These are staged native gameplay captures, edited at normal speed. They are not performance claims or unedited playthroughs. The library combines new captures with existing trailer-bench footage.
 Footage contains stylized insect combat. Check the final platform placement and its UI overlay before launching a paid campaign.
 Suggested captions below are editable drafts. Add the approved tracked Steam URL to X posts; use the campaign bio link or selected ad destination for Instagram.
 The manifest supplies anonymous HTTPS downloads, byte sizes, SHA-256 hashes, dimensions, durations and measured audio levels. No private repository access is needed.
-The expanded ZIP contains all 22 MP4s, 22 posters, this file, manifest.json and SHA256SUMS.txt. The original twelve-video release remains available.
+The revised ZIP contains all 22 MP4s, 22 posters, this file, manifest.json and SHA256SUMS.txt. The original twelve-video release remains available.
 Copyright Ricardson Albuquerque. All rights reserved; assets are supplied for authorized Torreta marketing.
 
 SUGGESTED CAPTIONS

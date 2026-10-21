@@ -13,9 +13,13 @@ previews, direct MP4 downloads, suggested
 captions and a JSON manifest with SHA-256 hashes. All downloads work without
 authentication or access to the game's private repository.
 
-The expanded ZIP is attached to the public `campaign-2026-10-21-expanded` release and
+The current framing revision preserves the complete gameplay view in Reels,
+opens first-person features with an overview and uses wider battlefield shots.
+Its filenames contain `r2` so existing cached previews cannot hide the revision.
+
+The revised ZIP is attached to the public `campaign-2026-10-21-wide` release and
 linked from the gallery. Individual media and the manifest are served directly
-by GitHub Pages. The original twelve-video release remains available. Existing
+by GitHub Pages. Both earlier releases remain available. Existing
 inventory URLs remain unchanged.
 
 - [Torretaz collection](https://gread.github.io/torreta-assets/marketing/2026-10-21/?collection=torretaz)
