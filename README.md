@@ -13,11 +13,11 @@ The files are 1080×1920, 30 fps, H.264/AAC, with English captions and game audi
 The gallery includes individual MP4 downloads, suggested captions, a checksum
 manifest and the ZIP on release `campaign-2026-10-29`.
 
-The current `-r2.zip` pack replaces only the photo-mode Reel. Its 31-second
-revision demonstrates zoom, high and low angles, strong rain, a sandstorm,
-daylight to night, a filter and photo capture. The other thirteen videos are
-byte-identical. New media URLs end in `r2-reels`; the original video and ZIP
-remain available.
+The current `-r3.zip` pack includes re-recorded Cannon and Laser Reels with
+the owner's new sound effects, plus the revised 31-second photo-mode Reel
+showing zoom, high/low angles, storms and night. The latest audio update changes
+only Cannon and Laser; the other twelve files are byte-identical. These three
+revised videos use `r2-reels` URLs. Earlier videos and ZIPs remain available.
 
 ## Campaign videos — October 21, 2026
 

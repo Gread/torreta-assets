@@ -35,19 +35,19 @@
       "suggested_copy": "Cannon: Heavy shots, high damage and good range. Take the cockpit and fire it yourself. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame",
       "variants": {
         "reels": {
-          "file": "02-tower-cannon-r1-reels.mp4",
-          "poster": "02-tower-cannon-r1-reels.jpg",
-          "bytes": 7050167,
-          "sha256": "72ee6d1b8e0f95635c002469de29dcf5d1073551b93b3bdfe7edb39edd38ac93",
+          "file": "02-tower-cannon-r2-reels.mp4",
+          "poster": "02-tower-cannon-r2-reels.jpg",
+          "bytes": 6571446,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/02-tower-cannon-r2-reels.mp4",
+          "sha256": "d04ac2ab64f41952d9f86a142338eb4fdb973b8723d239cbfb63f2e2beda7019",
           "width": 1080,
           "height": 1920,
           "fps": 30,
           "duration_seconds": 15.0,
           "video_codec": "h264",
           "audio_codec": "aac",
-          "loudness_lufs": -16.24,
-          "true_peak_dbtp": -2.43,
-          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/02-tower-cannon-r1-reels.mp4"
+          "loudness_lufs": -16.17,
+          "true_peak_dbtp": -2.42
         }
       }
     },
@@ -173,19 +173,19 @@
       "suggested_copy": "Laser: A continuous beam cuts through insects in its line and makes them bleed. Take the cockpit and fire it yourself. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame",
       "variants": {
         "reels": {
-          "file": "08-tower-laser-r1-reels.mp4",
-          "poster": "08-tower-laser-r1-reels.jpg",
-          "bytes": 7127212,
-          "sha256": "0f3f78bf3e6b9498d0c020aeedb196a95c3e4a862e6e19ffdf755a7aeef189c4",
+          "file": "08-tower-laser-r2-reels.mp4",
+          "poster": "08-tower-laser-r2-reels.jpg",
+          "bytes": 6901987,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/08-tower-laser-r2-reels.mp4",
+          "sha256": "e0aa155bdc7430d16cd8aa14e7d0f1820efb1fa6078ea550a180ddf4459cea22",
           "width": 1080,
           "height": 1920,
           "fps": 30,
           "duration_seconds": 15.0,
           "video_codec": "h264",
           "audio_codec": "aac",
-          "loudness_lufs": -15.99,
-          "true_peak_dbtp": -5.24,
-          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/08-tower-laser-r1-reels.mp4"
+          "loudness_lufs": -16.0,
+          "true_peak_dbtp": -4.27
         }
       }
     },
@@ -331,5 +331,5 @@
   "revision": "r1",
   "framing": "Native 1080p gameplay in the existing full-view vertical trailer layout.",
   "base_url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/",
-  "bundle_url": "https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-29/Torreta-Instagram-2026-10-29-r2.zip"
+  "bundle_url": "https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-29/Torreta-Instagram-2026-10-29-r3.zip"
 }
