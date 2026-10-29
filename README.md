@@ -3,7 +3,17 @@
 Public hosting for Torreta's Steam inventory images and authorized marketing
 media (Steam app **2998660**). Game source and player data are not included.
 
-## Campaign videos
+## Instagram feature videos — October 29, 2026
+
+[Open the new Reels collection](https://gread.github.io/torreta-assets/marketing/2026-10-29/)
+or find it in the [Torreta press kit](https://www.torreta-game.com/en/press/#instagram-reels).
+Fourteen videos cover eleven tower families (including cockpit combat for all
+eight controllable towers), the Strategy card, photo mode and seven enemy types.
+The files are 1080×1920, 30 fps, H.264/AAC, with English captions and game audio.
+The gallery includes individual MP4 downloads, suggested captions, a checksum
+manifest and the ZIP on release `campaign-2026-10-29`.
+
+## Campaign videos — October 21, 2026
 
 [Open the campaign library](https://gread.github.io/torreta-assets/marketing/2026-10-21/)
 for eleven concepts, each delivered for X (1920x1080) and Instagram
