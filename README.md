@@ -13,6 +13,12 @@ The files are 1080×1920, 30 fps, H.264/AAC, with English captions and game audi
 The gallery includes individual MP4 downloads, suggested captions, a checksum
 manifest and the ZIP on release `campaign-2026-10-29`.
 
+The current `-r2.zip` pack replaces only the photo-mode Reel. Its 31-second
+revision demonstrates zoom, high and low angles, strong rain, a sandstorm,
+daylight to night, a filter and photo capture. The other thirteen videos are
+byte-identical. New media URLs end in `r2-reels`; the original video and ZIP
+remain available.
+
 ## Campaign videos — October 21, 2026
 
 [Open the campaign library](https://gread.github.io/torreta-assets/marketing/2026-10-21/)

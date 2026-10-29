@@ -285,22 +285,22 @@
       "id": "13-photo-mode",
       "title": "Photo mode",
       "game": "Torreta",
-      "suggested_copy": "Pause the battle. Fly the camera, choose the light and weather, add a filter, and save the moment. Photo mode in Torreta. #Torreta #PhotoMode #VirtualPhotography",
+      "suggested_copy": "Pause the battle. Zoom in, fly around the towers, change rain to a sandstorm, and turn day into night. Frame your shot, add a filter, and save it in Torreta photo mode. #Torreta #PhotoMode #VirtualPhotography",
       "variants": {
         "reels": {
-          "file": "13-photo-mode-r1-reels.mp4",
-          "poster": "13-photo-mode-r1-reels.jpg",
-          "bytes": 5108143,
-          "sha256": "c4f668dd02b8a31a328a59e2a6d76d0926aa298d87331750f73c917b40f3a5f3",
+          "file": "13-photo-mode-r2-reels.mp4",
+          "poster": "13-photo-mode-r2-reels.jpg",
+          "bytes": 10304274,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/13-photo-mode-r2-reels.mp4",
+          "sha256": "42899328f4e1b65660c3c9a118148e7076c30d6646673f8f60c9bfe187a55e88",
           "width": 1080,
           "height": 1920,
           "fps": 30,
-          "duration_seconds": 21.0,
+          "duration_seconds": 31.0,
           "video_codec": "h264",
           "audio_codec": "aac",
-          "loudness_lufs": -16.0,
-          "true_peak_dbtp": -3.62,
-          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/13-photo-mode-r1-reels.mp4"
+          "loudness_lufs": -16.01,
+          "true_peak_dbtp": -3.64
         }
       }
     },
@@ -331,5 +331,5 @@
   "revision": "r1",
   "framing": "Native 1080p gameplay in the existing full-view vertical trailer layout.",
   "base_url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/",
-  "bundle_url": "https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-29/Torreta-Instagram-2026-10-29.zip"
+  "bundle_url": "https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-29/Torreta-Instagram-2026-10-29-r2.zip"
 }
