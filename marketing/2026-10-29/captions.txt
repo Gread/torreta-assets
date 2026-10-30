@@ -26,16 +26,16 @@ Laser: A continuous beam cuts through insects in its line and makes them bleed. 
 Poison: Poison groups of insects with a lingering toxic cloud. Take the cockpit and fire it yourself. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame
 
 10-tower-collect — Collector
-Collector: Recover debris and put it to work in your factory. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame
+Collector: A Gun brings down the insects. Three Collectors recover their remains, then clear scenery rock with the magnet. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame
 
 11-tower-hangar — Mech Hangar
 Mech Hangar: The Hangar deploys Sentinel mechs to meet the insects with energy sabres. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame
 
 12-strategy-card — The Strategy card
-Take the Strategy card, save your board, and choose it for a future run. Automatic building follows your saved order and waits for resources and unlocks. Play Torreta on Steam. #Torreta #StrategyGames #TowerDefense
+Take the Strategy card. Activate one saved seven-tower maze and let automatic building follow its order. Edit the saved layout: move a tower, choose its level and ammunition, then save your changes. Building uses your resources and unlocks. #Torreta #StrategyGames #TowerDefense
 
 13-photo-mode — Photo mode
-Pause the battle. Zoom in, fly around the towers, change rain to a sandstorm, and turn day into night. Frame your shot, add a filter, and save it in Torreta photo mode. #Torreta #PhotoMode #VirtualPhotography
+Pause the battle and compose your photograph. Get closer, find a new angle, bring out wet reflections in the rain, and change sunlight into night. Save your shot in Torreta photo mode. #Torreta #PhotoMode #VirtualPhotography
 
 14-know-your-enemy — Know your enemy
 Normal, Runner, Shield, Armored, Flying, Invisible and Swarm: read the threat and build your defense. Level 3 towers reveal camouflaged insects within their range. Play Torreta on Steam. #Torreta #TowerDefense #StrategyGames
