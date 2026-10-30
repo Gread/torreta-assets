@@ -12,19 +12,19 @@
       "suggested_copy": "Gun: A quick, affordable starting point for your maze. Take the cockpit and fire it yourself. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame",
       "variants": {
         "reels": {
-          "file": "01-tower-gun-r6-reels.mp4",
-          "poster": "01-tower-gun-r6-reels.jpg",
-          "bytes": 15994576,
-          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/01-tower-gun-r6-reels.mp4",
-          "sha256": "41c848c0803be5e822c8ccf2917d661c4d5d556a63ce2c529e26261a35780aa8",
+          "file": "01-tower-gun-r7-reels.mp4",
+          "poster": "01-tower-gun-r7-reels.jpg",
+          "bytes": 13972418,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/01-tower-gun-r7-reels.mp4",
+          "sha256": "6d71549ce0978a5e69ee900aa94b64460ccf5ed409af2ff15af09101a747bf34",
           "width": 1080,
           "height": 1920,
           "fps": 30,
           "duration_seconds": 21.0,
           "video_codec": "h264",
           "audio_codec": "aac",
-          "loudness_lufs": -16.26,
-          "true_peak_dbtp": -2.43
+          "loudness_lufs": -16.34,
+          "true_peak_dbtp": -2.44
         }
       }
     },
@@ -35,19 +35,19 @@
       "suggested_copy": "Cannon: Heavy shots, high damage and good range. Take the cockpit and fire it yourself. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame",
       "variants": {
         "reels": {
-          "file": "02-tower-cannon-r6-reels.mp4",
-          "poster": "02-tower-cannon-r6-reels.jpg",
-          "bytes": 15997883,
-          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/02-tower-cannon-r6-reels.mp4",
-          "sha256": "08cc9922fed2b153296028d13ec81e8b6068cf67247205d960cab4b30b72d0d0",
+          "file": "02-tower-cannon-r7-reels.mp4",
+          "poster": "02-tower-cannon-r7-reels.jpg",
+          "bytes": 14670973,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/02-tower-cannon-r7-reels.mp4",
+          "sha256": "13d1e8dc6b0c09ab128a53a6b1b0792fde20d3303256bbffbb4428d35cb6e75c",
           "width": 1080,
           "height": 1920,
           "fps": 30,
           "duration_seconds": 21.0,
           "video_codec": "h264",
           "audio_codec": "aac",
-          "loudness_lufs": -16.1,
-          "true_peak_dbtp": -2.44
+          "loudness_lufs": -16.13,
+          "true_peak_dbtp": -2.47
         }
       }
     },
@@ -58,19 +58,19 @@
       "suggested_copy": "Missile: Homing missiles bring high damage at long range. Take the cockpit and fire it yourself. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame",
       "variants": {
         "reels": {
-          "file": "03-tower-missile-r6-reels.mp4",
-          "poster": "03-tower-missile-r6-reels.jpg",
-          "bytes": 15493756,
-          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/03-tower-missile-r6-reels.mp4",
-          "sha256": "d124c4dad024c3a40411720cadd9127684f70a6356c6110ae3b26753c0333a70",
+          "file": "03-tower-missile-r7-reels.mp4",
+          "poster": "03-tower-missile-r7-reels.jpg",
+          "bytes": 14246376,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/03-tower-missile-r7-reels.mp4",
+          "sha256": "e259336830da1d010d83ff4a5bbeb823ee17995aec4860a3fe929ce8fb7f84fa",
           "width": 1080,
           "height": 1920,
           "fps": 30,
           "duration_seconds": 21.0,
           "video_codec": "h264",
           "audio_codec": "aac",
-          "loudness_lufs": -16.54,
-          "true_peak_dbtp": -2.43
+          "loudness_lufs": -16.5,
+          "true_peak_dbtp": -2.44
         }
       }
     },
@@ -81,19 +81,19 @@
       "suggested_copy": "Machine Gun: Low damage per shot. A very high rate of fire. Take the cockpit and fire it yourself. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame",
       "variants": {
         "reels": {
-          "file": "04-tower-machinegun-r6-reels.mp4",
-          "poster": "04-tower-machinegun-r6-reels.jpg",
-          "bytes": 17256578,
-          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/04-tower-machinegun-r6-reels.mp4",
-          "sha256": "607411c09026b0b42f339e1380b1acd005486176c09415ab5b6f9e489cc6e0f3",
+          "file": "04-tower-machinegun-r7-reels.mp4",
+          "poster": "04-tower-machinegun-r7-reels.jpg",
+          "bytes": 13293478,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/04-tower-machinegun-r7-reels.mp4",
+          "sha256": "928c9617c9df64d5d6ed4708f4885156db7e15b862e59d1e152809f35e59b02e",
           "width": 1080,
           "height": 1920,
           "fps": 30,
           "duration_seconds": 21.0,
           "video_codec": "h264",
           "audio_codec": "aac",
-          "loudness_lufs": -16.06,
-          "true_peak_dbtp": -2.54
+          "loudness_lufs": -16.04,
+          "true_peak_dbtp": -2.34
         }
       }
     },
@@ -104,19 +104,19 @@
       "suggested_copy": "Flame: Burn groups of enemies and keep dealing damage over time. Take the cockpit and fire it yourself. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame",
       "variants": {
         "reels": {
-          "file": "05-tower-flame-r6-reels.mp4",
-          "poster": "05-tower-flame-r6-reels.jpg",
-          "bytes": 18446950,
-          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/05-tower-flame-r6-reels.mp4",
-          "sha256": "434baa51778530345adf030cd941d6947fed97ce7d0076b419fd66ee4e5b435b",
+          "file": "05-tower-flame-r7-reels.mp4",
+          "poster": "05-tower-flame-r7-reels.jpg",
+          "bytes": 15565277,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/05-tower-flame-r7-reels.mp4",
+          "sha256": "6f09093544c4f2c35ac2c517c4c363ad448806c7764e8b4ff0ec1344479b19dd",
           "width": 1080,
           "height": 1920,
           "fps": 30,
           "duration_seconds": 21.0,
           "video_codec": "h264",
           "audio_codec": "aac",
-          "loudness_lufs": -16.02,
-          "true_peak_dbtp": -4.49
+          "loudness_lufs": -16.01,
+          "true_peak_dbtp": -4.92
         }
       }
     },
@@ -127,11 +127,11 @@
       "suggested_copy": "Bolt: Electric bolts hit hard and briefly stun their targets. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame",
       "variants": {
         "reels": {
-          "file": "06-tower-bolt-r3-reels.mp4",
-          "poster": "06-tower-bolt-r3-reels.jpg",
-          "bytes": 7648741,
-          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/06-tower-bolt-r3-reels.mp4",
-          "sha256": "e5d152bd09b0ad303d5232528cad380292e40a05c00a6bc8d92f6ed45b04b3a0",
+          "file": "06-tower-bolt-r4-reels.mp4",
+          "poster": "06-tower-bolt-r4-reels.jpg",
+          "bytes": 7571228,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/06-tower-bolt-r4-reels.mp4",
+          "sha256": "6a5c8a27674b6d2a02768c1912a52526861ba4ebd17891aaee247f43f46d8508",
           "width": 1080,
           "height": 1920,
           "fps": 30,
@@ -139,7 +139,7 @@
           "video_codec": "h264",
           "audio_codec": "aac",
           "loudness_lufs": -16.02,
-          "true_peak_dbtp": -3.55
+          "true_peak_dbtp": -3.57
         }
       }
     },
@@ -150,18 +150,18 @@
       "suggested_copy": "Frost: Slow insects so your other towers have more time to fire. Take the cockpit and fire it yourself. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame",
       "variants": {
         "reels": {
-          "file": "07-tower-frost-r6-reels.mp4",
-          "poster": "07-tower-frost-r6-reels.jpg",
-          "bytes": 16815905,
-          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/07-tower-frost-r6-reels.mp4",
-          "sha256": "767ee109a898119d5124e35aeaf0a94e3dcf9a8ca00d073f20955441c57ec141",
+          "file": "07-tower-frost-r7-reels.mp4",
+          "poster": "07-tower-frost-r7-reels.jpg",
+          "bytes": 12236943,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/07-tower-frost-r7-reels.mp4",
+          "sha256": "a59a258fe15fe506dc964c1aad1bb817d77b0f5c17b0921836720650e8633044",
           "width": 1080,
           "height": 1920,
           "fps": 30,
           "duration_seconds": 21.0,
           "video_codec": "h264",
           "audio_codec": "aac",
-          "loudness_lufs": -16.13,
+          "loudness_lufs": -16.11,
           "true_peak_dbtp": -2.51
         }
       }
@@ -173,19 +173,19 @@
       "suggested_copy": "Laser: A continuous beam cuts through insects in its line and makes them bleed. Take the cockpit and fire it yourself. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame",
       "variants": {
         "reels": {
-          "file": "08-tower-laser-r6-reels.mp4",
-          "poster": "08-tower-laser-r6-reels.jpg",
-          "bytes": 18113338,
-          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/08-tower-laser-r6-reels.mp4",
-          "sha256": "bb17a6e8a4523a233ce34d8462daae59db063f7863391a5d52f2bf80dc65f859",
+          "file": "08-tower-laser-r7-reels.mp4",
+          "poster": "08-tower-laser-r7-reels.jpg",
+          "bytes": 13221424,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/08-tower-laser-r7-reels.mp4",
+          "sha256": "1f1ea971c2c058704b5d9358e071c99bfaf0b9d8cb1c9f127932af9f642997e0",
           "width": 1080,
           "height": 1920,
           "fps": 30,
           "duration_seconds": 21.0,
           "video_codec": "h264",
           "audio_codec": "aac",
-          "loudness_lufs": -16.03,
-          "true_peak_dbtp": -2.52
+          "loudness_lufs": -16.08,
+          "true_peak_dbtp": -2.47
         }
       }
     },
@@ -196,19 +196,19 @@
       "suggested_copy": "Poison: Poison groups of insects with a lingering toxic cloud. Take the cockpit and fire it yourself. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame",
       "variants": {
         "reels": {
-          "file": "09-tower-poison-r6-reels.mp4",
-          "poster": "09-tower-poison-r6-reels.jpg",
-          "bytes": 18740625,
-          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/09-tower-poison-r6-reels.mp4",
-          "sha256": "5cc3e291e9999d9f9892c5e7189bce35eb4bd7adf60f5ebc2f38f6dd5d2c454b",
+          "file": "09-tower-poison-r7-reels.mp4",
+          "poster": "09-tower-poison-r7-reels.jpg",
+          "bytes": 11805802,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/09-tower-poison-r7-reels.mp4",
+          "sha256": "2925e8e081f6b78d8fad764085349932b69363a536d831fdbddbb978079daf6e",
           "width": 1080,
           "height": 1920,
           "fps": 30,
           "duration_seconds": 21.0,
           "video_codec": "h264",
           "audio_codec": "aac",
-          "loudness_lufs": -16.12,
-          "true_peak_dbtp": -2.45
+          "loudness_lufs": -16.02,
+          "true_peak_dbtp": -2.49
         }
       }
     },
@@ -242,19 +242,19 @@
       "suggested_copy": "Mech Hangar: The Hangar deploys Sentinel mechs to meet the insects with energy sabres. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame",
       "variants": {
         "reels": {
-          "file": "11-tower-hangar-r3-reels.mp4",
-          "poster": "11-tower-hangar-r3-reels.jpg",
-          "bytes": 5892019,
-          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/11-tower-hangar-r3-reels.mp4",
-          "sha256": "46481b7b1a05268d25a07af4849006c76d19e507f92c3ddaf024ef792a31550d",
+          "file": "11-tower-hangar-r4-reels.mp4",
+          "poster": "11-tower-hangar-r4-reels.jpg",
+          "bytes": 9578935,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/11-tower-hangar-r4-reels.mp4",
+          "sha256": "36add25a44d9c1457ce8fd76f2b3b066af8eac9ec33cb1b945fa63585a82b25f",
           "width": 1080,
           "height": 1920,
           "fps": 30,
           "duration_seconds": 21.0,
           "video_codec": "h264",
           "audio_codec": "aac",
-          "loudness_lufs": -16.06,
-          "true_peak_dbtp": -2.48
+          "loudness_lufs": -16.03,
+          "true_peak_dbtp": -3.8
         }
       }
     },
@@ -331,5 +331,5 @@
   "revision": "r1",
   "framing": "Complete native gameplay viewports in the branded vertical trailer layout; square tower/cockpit and enemy views keep interface details readable.",
   "base_url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/",
-  "bundle_url": "https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-29/Torreta-Instagram-2026-10-29-r7.zip"
+  "bundle_url": "https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-29/Torreta-Instagram-2026-10-29-r8.zip"
 }
