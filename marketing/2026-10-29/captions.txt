@@ -35,7 +35,7 @@ Mech Hangar: The Hangar deploys Sentinel mechs to meet the insects with energy s
 Take the Strategy card. Activate one saved seven-tower maze and let automatic building follow its order. Edit the saved layout: move a tower, choose its level and ammunition, then save your changes. Building uses your resources and unlocks. #Torreta #StrategyGames #TowerDefense
 
 13-photo-mode — Photo mode
-Compose your photograph with smooth camera movement and optical zoom. Watch rain clear, shadows travel and daylight turn continuously into night. Save your shot in Torreta photo mode. #Torreta #PhotoMode #VirtualPhotography
+Explore the Camera, World and Image tabs, then hide the controls and compose your photograph. Watch rain clear into sunlight and daylight turn continuously into night, with moving shadows and wet reflections. #Torreta #PhotoMode #VirtualPhotography
 
 14-know-your-enemy — Know your enemy
 Normal, Runner, Shield, Armored, Flying, Invisible and Swarm: see your towers fight every threat. Level 3 towers reveal camouflaged insects before attacking them. Play Torreta on Steam. #Torreta #TowerDefense #StrategyGames
