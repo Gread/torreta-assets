@@ -288,11 +288,11 @@
       "suggested_copy": "Explore the Camera, World and Image tabs, then hide the controls and compose your photograph. Watch rain clear into sunlight and daylight turn continuously into night, with moving shadows and wet reflections. #Torreta #PhotoMode #VirtualPhotography",
       "variants": {
         "reels": {
-          "file": "13-photo-mode-r5-reels.mp4",
-          "poster": "13-photo-mode-r5-reels.jpg",
-          "bytes": 17755823,
-          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/13-photo-mode-r5-reels.mp4",
-          "sha256": "80012c0ecfe61f8f6fcb7d3abab53101be11fce1c768ffcf762483193f409a2d",
+          "file": "13-photo-mode-r6-reels.mp4",
+          "poster": "13-photo-mode-r6-reels.jpg",
+          "bytes": 17109379,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/13-photo-mode-r6-reels.mp4",
+          "sha256": "c1b997fca3fff3736b7e74350fc53ee1640f5bf33089456e9fe981148f9f6f3e",
           "width": 1080,
           "height": 1920,
           "fps": 30,
@@ -331,5 +331,5 @@
   "revision": "r1",
   "framing": "Complete native gameplay viewports in the branded vertical trailer layout; square tower/cockpit and enemy views keep interface details readable.",
   "base_url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/",
-  "bundle_url": "https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-29/Torreta-Instagram-2026-10-29-r10.zip"
+  "bundle_url": "https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-29/Torreta-Instagram-2026-10-29-r11.zip"
 }
