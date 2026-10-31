@@ -196,19 +196,19 @@
       "suggested_copy": "Poison: Poison groups of insects with a lingering toxic cloud. Take the cockpit and fire it yourself. Play Torreta on Steam. #Torreta #TowerDefense #IndieGame",
       "variants": {
         "reels": {
-          "file": "09-tower-poison-r7-reels.mp4",
-          "poster": "09-tower-poison-r7-reels.jpg",
-          "bytes": 11805802,
-          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/09-tower-poison-r7-reels.mp4",
-          "sha256": "2925e8e081f6b78d8fad764085349932b69363a536d831fdbddbb978079daf6e",
+          "file": "09-tower-poison-r8-reels.mp4",
+          "poster": "09-tower-poison-r8-reels.jpg",
+          "bytes": 12653566,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/09-tower-poison-r8-reels.mp4",
+          "sha256": "83f457c705426b728d512fb7a57e7bcc33929642050a0451ae362f4a5681b0d4",
           "width": 1080,
           "height": 1920,
           "fps": 30,
           "duration_seconds": 21.0,
           "video_codec": "h264",
           "audio_codec": "aac",
-          "loudness_lufs": -16.02,
-          "true_peak_dbtp": -2.49
+          "loudness_lufs": -16.04,
+          "true_peak_dbtp": -4.49
         }
       }
     },
@@ -331,5 +331,5 @@
   "revision": "r1",
   "framing": "Complete native gameplay viewports in the branded vertical trailer layout; square tower/cockpit and enemy views keep interface details readable.",
   "base_url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/",
-  "bundle_url": "https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-29/Torreta-Instagram-2026-10-29-r8.zip"
+  "bundle_url": "https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-29/Torreta-Instagram-2026-10-29-r9.zip"
 }
