@@ -25,6 +25,21 @@
           "audio_codec": "aac",
           "loudness_lufs": -16.25,
           "true_peak_dbtp": -2.42
+        },
+        "x": {
+          "file": "01-tower-gun-r9-x.mp4",
+          "poster": "01-tower-gun-r9-x.jpg",
+          "bytes": 16322756,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/01-tower-gun-r9-x.mp4",
+          "sha256": "c2e317b5b375b00de89f97bdf5d56f0d3e98488c0dd3f676ffe5b9151019d39e",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 21.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.25,
+          "true_peak_dbtp": -2.42
         }
       }
     },
@@ -42,6 +57,21 @@
           "sha256": "491de49486fef73ad6c4a0d6562d2fea7925db70066b065810e943505964b783",
           "width": 1080,
           "height": 1920,
+          "fps": 30,
+          "duration_seconds": 21.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.14,
+          "true_peak_dbtp": -2.43
+        },
+        "x": {
+          "file": "02-tower-cannon-r9-x.mp4",
+          "poster": "02-tower-cannon-r9-x.jpg",
+          "bytes": 16434335,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/02-tower-cannon-r9-x.mp4",
+          "sha256": "a6dfea0c249b5809f07296e4b345ca9ec99066b9b9299f7beea4c82fe1df8e26",
+          "width": 1920,
+          "height": 1080,
           "fps": 30,
           "duration_seconds": 21.0,
           "video_codec": "h264",
@@ -71,6 +101,21 @@
           "audio_codec": "aac",
           "loudness_lufs": -16.39,
           "true_peak_dbtp": -2.42
+        },
+        "x": {
+          "file": "03-tower-missile-r9-x.mp4",
+          "poster": "03-tower-missile-r9-x.jpg",
+          "bytes": 22695144,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/03-tower-missile-r9-x.mp4",
+          "sha256": "049a448fec3f1931b516a78cb9358fb54b9e07e66960657c6a5cec515de688da",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 27.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.39,
+          "true_peak_dbtp": -2.42
         }
       }
     },
@@ -88,6 +133,21 @@
           "sha256": "285f0b50921d37181ef5f60886745a8d8cf30ae7e18ed4552755f41d770f3fd5",
           "width": 1080,
           "height": 1920,
+          "fps": 30,
+          "duration_seconds": 21.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.07,
+          "true_peak_dbtp": -2.49
+        },
+        "x": {
+          "file": "04-tower-machinegun-r9-x.mp4",
+          "poster": "04-tower-machinegun-r9-x.jpg",
+          "bytes": 16341993,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/04-tower-machinegun-r9-x.mp4",
+          "sha256": "d5f1373d744011a34bed6947e85b8c83006def18a530ae7ceafe1db3bb033385",
+          "width": 1920,
+          "height": 1080,
           "fps": 30,
           "duration_seconds": 21.0,
           "video_codec": "h264",
@@ -117,6 +177,21 @@
           "audio_codec": "aac",
           "loudness_lufs": -16.01,
           "true_peak_dbtp": -4.15
+        },
+        "x": {
+          "file": "05-tower-flame-r9-x.mp4",
+          "poster": "05-tower-flame-r9-x.jpg",
+          "bytes": 16833725,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/05-tower-flame-r9-x.mp4",
+          "sha256": "a9189e5f129119fd0ea92a143be10d1808ff5e02f438c02ad0c9c690be51d420",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 21.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.01,
+          "true_peak_dbtp": -4.15
         }
       }
     },
@@ -134,6 +209,21 @@
           "sha256": "6b7ea8e8b0242f19db4f8766e7c605dd92cc9f95eb08563f3bed416260b548c9",
           "width": 1080,
           "height": 1920,
+          "fps": 30,
+          "duration_seconds": 21.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.02,
+          "true_peak_dbtp": -3.57
+        },
+        "x": {
+          "file": "06-tower-bolt-r6-x.mp4",
+          "poster": "06-tower-bolt-r6-x.jpg",
+          "bytes": 9303373,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/06-tower-bolt-r6-x.mp4",
+          "sha256": "d1c59e7ff979fa98b3863429cd9130ce583cb629eedf70349cf048fe63e2acab",
+          "width": 1920,
+          "height": 1080,
           "fps": 30,
           "duration_seconds": 21.0,
           "video_codec": "h264",
@@ -163,6 +253,21 @@
           "audio_codec": "aac",
           "loudness_lufs": -16.13,
           "true_peak_dbtp": -2.52
+        },
+        "x": {
+          "file": "07-tower-frost-r9-x.mp4",
+          "poster": "07-tower-frost-r9-x.jpg",
+          "bytes": 16343699,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/07-tower-frost-r9-x.mp4",
+          "sha256": "add7b2785becd120a64c9595e7da3f3cf8daaa9db09b54e605d0fd94f0fb956b",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 21.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.13,
+          "true_peak_dbtp": -2.52
         }
       }
     },
@@ -180,6 +285,21 @@
           "sha256": "508f3cf0133127e44b4e5ec98bf821707929769c9d582f34c81ece1d22a5a449",
           "width": 1080,
           "height": 1920,
+          "fps": 30,
+          "duration_seconds": 21.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.13,
+          "true_peak_dbtp": -2.48
+        },
+        "x": {
+          "file": "08-tower-laser-r9-x.mp4",
+          "poster": "08-tower-laser-r9-x.jpg",
+          "bytes": 16267246,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/08-tower-laser-r9-x.mp4",
+          "sha256": "02c85ead6ce0d7bebc156b92227729f6deacb992b3660fcab44a23fb11fee048",
+          "width": 1920,
+          "height": 1080,
           "fps": 30,
           "duration_seconds": 21.0,
           "video_codec": "h264",
@@ -209,6 +329,21 @@
           "audio_codec": "aac",
           "loudness_lufs": -16.04,
           "true_peak_dbtp": -3.35
+        },
+        "x": {
+          "file": "09-tower-poison-r10-x.mp4",
+          "poster": "09-tower-poison-r10-x.jpg",
+          "bytes": 15034949,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/09-tower-poison-r10-x.mp4",
+          "sha256": "24108089a93f158cd22b5e19e1b82afb678cb0f0470088ad297be603a4fc5a7c",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 21.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.04,
+          "true_peak_dbtp": -3.35
         }
       }
     },
@@ -226,6 +361,21 @@
           "sha256": "d891784e3f7b84e90fb6a26cfa2986851afa9cc994e9a6b556d3d5a5485050f2",
           "width": 1080,
           "height": 1920,
+          "fps": 30,
+          "duration_seconds": 33.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.43,
+          "true_peak_dbtp": -2.43
+        },
+        "x": {
+          "file": "10-tower-collect-r5-x.mp4",
+          "poster": "10-tower-collect-r5-x.jpg",
+          "bytes": 17845952,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/10-tower-collect-r5-x.mp4",
+          "sha256": "340b5ed01b5caa8add62fdf0881438520d539f046a4804bce817af2b8885e2dc",
+          "width": 1920,
+          "height": 1080,
           "fps": 30,
           "duration_seconds": 33.0,
           "video_codec": "h264",
@@ -255,6 +405,21 @@
           "audio_codec": "aac",
           "loudness_lufs": -16.03,
           "true_peak_dbtp": -3.8
+        },
+        "x": {
+          "file": "11-tower-hangar-r6-x.mp4",
+          "poster": "11-tower-hangar-r6-x.jpg",
+          "bytes": 10474113,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/11-tower-hangar-r6-x.mp4",
+          "sha256": "32c207173b49f32641542daefe46339611636c51d0504a2cb125de77151b89d9",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 21.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.03,
+          "true_peak_dbtp": -3.8
         }
       }
     },
@@ -272,6 +437,21 @@
           "sha256": "a7a3dfa9228a9fc8007961723a6d2c18c35e4985f005dcdbb41c33cedbd662b8",
           "width": 1080,
           "height": 1920,
+          "fps": 30,
+          "duration_seconds": 33.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.02,
+          "true_peak_dbtp": -2.21
+        },
+        "x": {
+          "file": "12-strategy-card-r5-x.mp4",
+          "poster": "12-strategy-card-r5-x.jpg",
+          "bytes": 14225619,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/12-strategy-card-r5-x.mp4",
+          "sha256": "c1d6cff901284f6290a448ae5cd5c117c42e267d3c01d312209452f876fb5a85",
+          "width": 1920,
+          "height": 1080,
           "fps": 30,
           "duration_seconds": 33.0,
           "video_codec": "h264",
@@ -301,6 +481,21 @@
           "audio_codec": "aac",
           "loudness_lufs": -16.0,
           "true_peak_dbtp": -4.81
+        },
+        "x": {
+          "file": "13-photo-mode-r8-x.mp4",
+          "poster": "13-photo-mode-r8-x.jpg",
+          "bytes": 20362120,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/13-photo-mode-r8-x.mp4",
+          "sha256": "69c82da52cbf7b700abdbb8b047906e7d267d56d8a44e25e727b5bc664ff528d",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 39.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.0,
+          "true_peak_dbtp": -4.81
         }
       }
     },
@@ -324,12 +519,28 @@
           "audio_codec": "aac",
           "loudness_lufs": -16.2,
           "true_peak_dbtp": -2.46
+        },
+        "x": {
+          "file": "14-know-your-enemy-r5-x.mp4",
+          "poster": "14-know-your-enemy-r5-x.jpg",
+          "bytes": 13328101,
+          "url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/14-know-your-enemy-r5-x.mp4",
+          "sha256": "a6986b6071080687b05f758d09703103e499d7d3ee6e3e3ed989433e15a129f6",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "duration_seconds": 31.0,
+          "video_codec": "h264",
+          "audio_codec": "aac",
+          "loudness_lufs": -16.2,
+          "true_peak_dbtp": -2.46
         }
       }
     }
   ],
   "revision": "r1",
-  "framing": "Complete native gameplay viewports in the branded vertical trailer layout; square tower/cockpit and enemy views keep interface details readable.",
+  "framing": "Full native square/wide views in branded Reels and horizontal X layouts; enlarged photo controls.",
   "base_url": "https://gread.github.io/torreta-assets/marketing/2026-10-29/",
-  "bundle_url": "https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-29/Torreta-Instagram-2026-10-29-r13.zip"
+  "bundle_url": "https://github.com/Gread/torreta-assets/releases/download/campaign-2026-10-29/Torreta-Instagram-2026-10-29-r13.zip",
+  "x_bundle_url": "https://github.com/Gread/torreta-assets/releases/download/campaign-2026-11-01-x/Torreta-X-2026-11-01.zip"
 }
