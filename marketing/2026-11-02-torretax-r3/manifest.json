@@ -1,0 +1,46 @@
+{
+  "title": "TorretaX trailer",
+  "seconds": 54,
+  "fps": 30,
+  "language": "en",
+  "source": "Continuous native Godot gameplay; staged construction stock, stock combat and waves; original game audio and music",
+  "public_base_url": "https://gread.github.io/torreta-assets/marketing/2026-11-02-torretax-r3/",
+  "files": [
+    {
+      "name": "TorretaX-Trailer-r3-x-youtube.mp4",
+      "bytes": 34988723,
+      "sha256": "a84c985a034128a628a4c9b4343e4735c834aed195c9fa6dcfe801aa0e041f91"
+    },
+    {
+      "name": "TorretaX-Trailer-r3-x-youtube.jpg",
+      "bytes": 267928,
+      "sha256": "4812c6723a5837a58c0522b37f61a57c3b17b4f7f10902dce5d4d538819b0040"
+    },
+    {
+      "name": "TorretaX-Trailer-r3-instagram.mp4",
+      "bytes": 18113550,
+      "sha256": "9be77e2d5c1a4f6c9172761d6020a8b5a8798d4bda8d3ade0cd19cb1435dd5c6"
+    },
+    {
+      "name": "TorretaX-Trailer-r3-instagram.jpg",
+      "bytes": 227887,
+      "sha256": "d5279b775060ee5b407d13f1bcac5767c386751f28255731469f1233961f3692"
+    }
+  ],
+  "videos": [
+    {
+      "id": "x-youtube",
+      "file": "TorretaX-Trailer-r3-x-youtube",
+      "label": "X / YouTube",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "instagram",
+      "file": "TorretaX-Trailer-r3-instagram",
+      "label": "Instagram Reels",
+      "width": 1080,
+      "height": 1920
+    }
+  ]
+}
