@@ -13,8 +13,8 @@
     },
     {
       "name": "TorretaX-Trailer-r3-x-youtube.jpg",
-      "bytes": 267928,
-      "sha256": "4812c6723a5837a58c0522b37f61a57c3b17b4f7f10902dce5d4d538819b0040"
+      "bytes": 433625,
+      "sha256": "26f3fb5afe29aa33a61cb74c7574c58f6d83be2d08ce492e6a6bc07f47561d8e"
     },
     {
       "name": "TorretaX-Trailer-r3-instagram.mp4",
@@ -23,8 +23,13 @@
     },
     {
       "name": "TorretaX-Trailer-r3-instagram.jpg",
-      "bytes": 227887,
-      "sha256": "d5279b775060ee5b407d13f1bcac5767c386751f28255731469f1233961f3692"
+      "bytes": 355856,
+      "sha256": "51a639c5c527447e8f7c598897b1517e4ae75767270e88ac833b1fafa7b9f59b"
+    },
+    {
+      "name": "TorretaX-Trailer-r3-youtube-thumbnail-1280x720.jpg",
+      "bytes": 228302,
+      "sha256": "f007734c04fb903f2452d3e96c139574a5a0acbd52aeae993aeb75b75bd52665"
     }
   ],
   "videos": [
@@ -42,5 +47,9 @@
       "width": 1080,
       "height": 1920
     }
-  ]
+  ],
+  "thumbnails": {
+    "source": "Native trailer frame at 47 seconds and existing Blender wordmark; original trailer typography",
+    "youtube_1280x720": "TorretaX-Trailer-r3-youtube-thumbnail-1280x720.jpg"
+  }
 }
