@@ -3,20 +3,6 @@
 Public hosting for Torreta's Steam inventory images and authorized marketing
 media (Steam app **2998660**). Game source and player data are not included.
 
-## Presentation trailer — November 4, 2026
-
-[Watch and download both formats](https://gread.github.io/torreta-assets/marketing/2026-11-04/)
-or open the [Torreta press kit](https://www.torreta-game.com/en/press/#presentation-trailer).
-The 40-second cut shows direct tower control with the native cockpit HUD,
-a defended maze, ammunition production and the battlefield's changing light.
-It includes landscape video for X/YouTube and a dedicated native capture for
-Instagram, with the existing trailer typography and original game audio.
-
-[Download the complete press kit](https://github.com/Gread/torreta-assets/releases/download/press-2026-11-04/Torreta-Press-Kit.zip)
-for all original screenshots, transparent logos, fifteen localized descriptions
-and a checksum manifest. The growing archive is a release download; individual
-photos and previews remain on the game's website.
-
 ## Instagram feature videos — October 29, 2026
 
 [Open the new Reels collection](https://gread.github.io/torreta-assets/marketing/2026-10-29/)
