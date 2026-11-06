@@ -1,0 +1,49 @@
+{
+  "title": "Torreta \u2014 Build your maze",
+  "approved": "2026-11-06",
+  "revision": 5,
+  "seconds": 43,
+  "public_base_url": "https://gread.github.io/torreta-assets/marketing/2026-11-06-maze/",
+  "bundle": "Torreta-Maze-Trailer-2026-11-06.zip",
+  "fps": 30,
+  "language": "en",
+  "files": [
+    {
+      "name": "Torreta-Maze-Trailer-2026-11-06-x-youtube.mp4",
+      "bytes": 39112258,
+      "sha256": "33a842648fb8af41773ad600a5716740b0df23d2784b3bb17b67c73c22d3d83a"
+    },
+    {
+      "name": "Torreta-Maze-Trailer-2026-11-06-x-youtube.jpg",
+      "bytes": 545170,
+      "sha256": "d54bbf944b1f36805e6faa66b9d9ea2570be73d5724d4859c1e8c20be703896d"
+    },
+    {
+      "name": "Torreta-Maze-Trailer-2026-11-06-instagram.mp4",
+      "bytes": 23485996,
+      "sha256": "0b647c6deb10e2a517842a402383c11d17cc055893bad14324f8f86b7ee07e0d"
+    },
+    {
+      "name": "Torreta-Maze-Trailer-2026-11-06-instagram.jpg",
+      "bytes": 337601,
+      "sha256": "a539284fb497b788790476f130cfbabf82ab33e706da314a53a9918b289b455c"
+    }
+  ],
+  "videos": [
+    {
+      "file": "Torreta-Maze-Trailer-2026-11-06-x-youtube",
+      "label": "X / YouTube",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "33a842648fb8af41773ad600a5716740b0df23d2784b3bb17b67c73c22d3d83a"
+    },
+    {
+      "file": "Torreta-Maze-Trailer-2026-11-06-instagram",
+      "label": "Instagram Reels",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "0b647c6deb10e2a517842a402383c11d17cc055893bad14324f8f86b7ee07e0d"
+    }
+  ],
+  "source": "Native gameplay with staged construction and enemy waves; stock tower combat, game sounds and music."
+}
